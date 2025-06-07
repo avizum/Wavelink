@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "wavelink"
-version = "3.5.0"
+version = "3.5.1"
 
 authors = [
   { name="PythonistaGuild, EvieePy", email="evieepy@gmail.com" },
@@ -75,7 +75,7 @@ ignore = [
     "ANN401",
     "UP031",
     "PTH123",
-    "E203", 
+    "E203",
     "E501",
     "RUF006",
     "SIM910",
